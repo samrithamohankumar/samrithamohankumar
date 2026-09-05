@@ -21,12 +21,12 @@
 
 - Hand Gesture Recognition System
 - Museum Management System
-- Smart City Assistant
+- 
 
 ## Leadership
 
 - Joint Secretary – IEI Students' Chapter (CSE)
-- Executive Member – Creative Arts Club
+- Event Coordinator – Creative Arts Club
 - Class Representative
 
 ---
