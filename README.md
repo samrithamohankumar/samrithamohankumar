@@ -21,7 +21,6 @@
 
 - Hand Gesture Recognition System
 - Museum Management System
-- 
 
 ## Leadership
 
