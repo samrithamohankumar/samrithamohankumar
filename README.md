@@ -29,10 +29,10 @@
 
 ---
 Find Me
-🌐 LinkedIn
-www.linkedin.com/in/m-samritha
+-🌐 LinkedIn
+-www.linkedin.com/in/m-samritha
 
 📧 Email
-samrithamohankumar@gmail.com
+-samrithamohankumar@gmail.com
 
 *Turning ideas into practical solutions and continuously learning along the way.*
