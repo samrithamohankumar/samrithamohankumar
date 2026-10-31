@@ -28,11 +28,12 @@
 - Class Representative
 
 ---
-Find Me
--🌐 LinkedIn
--www.linkedin.com/in/m-samritha
+### Find Me
 
-📧 Email
--samrithamohankumar@gmail.com
+🌐 **LinkedIn**  
+[www.linkedin.com/in/m-samritha](https://www.linkedin.com/in/m-samritha)
+
+📧 **Email**  
+[samrithamohankumar@gmail.com](mailto:samrithamohankumar@gmail.com)
 
 *Turning ideas into practical solutions and continuously learning along the way.*
