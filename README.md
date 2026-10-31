@@ -3,7 +3,6 @@
 ## About Me
 
 - 2nd Year Computer Science and Engineering Student
-- Joint Secretary – IEI Students' Chapter (CSE)
 - Interested in Backend Development,Machine Learning
 - Building projects using Python, Java, C
 - Exploring Web Development, Artificial Intelligence and IoT
@@ -24,7 +23,7 @@
 
 ## Leadership
 
-- Joint Secretary – IEI Students' Chapter (CSE)
+- Joint Secretary - Readers' club
 - Event Coordinator – Creative Arts Club
 - Class Representative
 
